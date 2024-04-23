@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    padding: 24px 0;
+    font-size: 12 px;
+    background-color: aqua;
+    color:blue (240, 246, 255);                                                                                                                                                                                               ;
+    /*Cor do fundo da caixa*/
+    display:flex;
+    justify-content: space-around;
+
+    /*cor geral, no caso usado nas letras*/
+} 
+.cabecalhoListaItem{
+    margin: 0 46px;
+    padding: 24px 0;
+
+    display: inline-block;
+
+}
+      
+.sobre-imagem{
+    width: 10%;
+}
+
+.sobre{
+    background-image:linear-gradient(#030703,#fff);
+    color: rgb(233, 236, 240);
+    display: flex;
+}
