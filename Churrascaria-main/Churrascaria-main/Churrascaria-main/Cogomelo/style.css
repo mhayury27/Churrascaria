@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    padding: 24px 0;
+    font-size: 12 px;
+    background-color: rgb(10, 10, 10);
+    color:rgb(0, 0, 0) (240, 246, 255);                                                                                                                                                                                               ;
+    /*Cor do fundo da caixa*/
+    display:flex;
+    justify-content: space-around;
+
+    /*cor geral, no caso usado nas letras*/
+} 
+.cabecalhoListaItem{
+    margin: 0 46px;
+    padding: 24px 0;
+
+    display: inline-block;
+
+}
+      
+.sobre-imagem{
+    width: 10%;
+}
+
+.sobre{
+    background-image:linear-gradient(#1a1a1a,#0e0e0e);
+    color: rgb(250, 247, 247);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding:58 px 0;
+}
+
+.sobre-conteudo{
+width: 50;
+}
+
+.sobre-titulo{
+    padding: 140px 0;
+}
+
+.membro-imagem{
+    width: 320px;
+}	
+
+.membro-icone{
+    width: 24px;
+}
+
+.membro-dive{
+    text-align: center;
+}
+
+.membros-titulo{
+    text-align: center;
+    padding: 150px 0;
+}
+
+
